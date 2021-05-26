@@ -1,5 +1,6 @@
 Test Git Quick Start demo
 <<<<<<< HEAD
 update the file
+hello git update the file
 =======
 >>>>>>> 4997ad3324c5f035233e9fc897b806a57ac845ae
